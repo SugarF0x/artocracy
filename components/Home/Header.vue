@@ -77,7 +77,7 @@ export default defineComponent({
 .company-title
   margin-bottom: 7px
   font-family: "Agency", monospace
-  font-size: 5rem
+  font-size: 4rem
 
 .description-list
   list-style: none
