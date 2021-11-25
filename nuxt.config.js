@@ -8,14 +8,14 @@ export default {
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: 'Аристократ внутри - аристократ снаружи' },
+      { hid: "description", name: "description", content: "Аристократ внутри - аристократ снаружи" },
       { hid: "author", name: "author", content: "github.com/SugarF0x" },
       { name: "format-detection", content: "telephone=no" },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/logo.png" }],
   },
   css: ["~/assets/global.sass"],
-  plugins: ["@/plugins/fragment.ts"],
+  plugins: ["@/plugins/fragment.ts", "@/plugins/mask.ts"],
   components: true,
   buildModules: [
     "@nuxt/typescript-build",

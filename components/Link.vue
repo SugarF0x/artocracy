@@ -18,7 +18,7 @@ export default defineComponent({
 })
 </script>
 
-<style lang="sass" scoped>
+<style lang="sass">
 .link-button
   padding: 6px 30px !important
   font-family: "Courier New", monospace
