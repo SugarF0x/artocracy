@@ -5,12 +5,12 @@
         <v-img src="/logo_hq.png" width="228" height="228" />
         <v-col cols="10" lg="8" class="mt-16">
           <div class="title-block">
-            <h5 class="company-subtitle">ВСТАВЬТЕ_СЮДА_КАКОЙ-ТО_ТЕКСТ</h5>
+            <h5 class="company-subtitle">Lorem ipsum.</h5>
             <h1 class="company-title">Артократия</h1>
             <ul class="description-list">
-              <li>Развлекуха</li>
-              <li>Крутая туса</li>
-              <li>Для самых ровных пацанов</li>
+              <li>Lorem ipsum dolor sit.</li>
+              <li>Lorem ipsum.</li>
+              <li>Lorem ipsum dolor.</li>
             </ul>
           </div>
         </v-col>

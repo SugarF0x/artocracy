@@ -3,7 +3,7 @@
     <v-row no-gutters>
       <v-col cols="12" sm="4">
         <Card color="primary" icon="phone">
-          <template #title>Позвоните нам</template>
+          <template #title>Lorem ipsum</template>
           <template #text>
             <ul class="list">
               <li v-for="phone in PHONES" :key="phone">
@@ -15,7 +15,7 @@
       </v-col>
       <v-col cols="12" sm="4">
         <Card color="secondary" icon="email">
-          <template #title>Напишите нам</template>
+          <template #title>Lorem ipsum</template>
           <template #text>
             <ul class="list">
               <li v-for="mail in MAILS" :key="mail">
@@ -27,11 +27,11 @@
       </v-col>
       <v-col cols="12" sm="4">
         <Card color="primary" icon="home-map-marker">
-          <template #title>Приезжайте к нам</template>
+          <template #title>Lorem ipsum</template>
           <template #text>
-            Московское царство, Москва
+            Lorem ipsum dolor
             <br />
-            Московская область, Гребной канал
+            Lorem ipsum dolor sit
           </template>
         </Card>
       </v-col>

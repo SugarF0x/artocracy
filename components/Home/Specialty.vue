@@ -2,7 +2,7 @@
   <section id="specialty" class="s-bg--primary-dark">
     <div class="bg">
       <v-container class="text-center container">
-        <h2 class="section-title large">Смешные приколы</h2>
+        <h2 class="section-title large">Lorem ipsum.</h2>
         <v-row no-gutters justify="center" class="mx-sm-8 mx-md-16">
           <v-col v-for="(col, colIndex) in cards" :key="`card-col-${colIndex}`" cols="12" sm="6" class="px-xl-16">
             <Card color="primary-dark" :icon="col.icon" class="transparent text--white">
@@ -32,10 +32,10 @@ export default defineComponent({
 })
 
 const cards: [string, string, string][] = [
-  ["home-city-outline", "Жилые дома", "вас не побеспокоят"],
-  ["warehouse", "Оставьте свои заботы", "в наших камерах харнения"],
-  ["church", "Духовные скрепы", "Скрипят словно не смазывались с 1850-х"],
-  ["bridge", "Мост в Терабитию", "на гребном канале"],
+  ["home-city-outline", "Lorem ipsum", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero"],
+  ["warehouse", "Lorem ipsum", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero"],
+  ["church", "Lorem ipsum", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero"],
+  ["bridge", "Lorem ipsum", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero"],
 ]
 
 class CardData {

@@ -6,12 +6,12 @@
           <h2 class="display-4 s-text--primary font-weight-bold text-center">500</h2>
         </v-col>
         <v-col cols="12" sm="6" lg="3" class="text-center">
-          <h3>лет истории</h3>
+          <h3>Lorem ipsum dolor.</h3>
           <p>
             <i>
-              за три дня
+              Lorem ipsum dolor sit amet, consectetur.
               <br />
-              круто, да?
+              Lorem ipsum dolor sit.
             </i>
           </p>
         </v-col>

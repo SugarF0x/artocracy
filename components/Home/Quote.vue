@@ -2,10 +2,11 @@
   <section id="quote" class="text-center">
     <v-icon color="white" size="80">mdi-book-open-page-variant</v-icon>
     <p class="text text-justify text-sm-center">
-      "Когда мне не хватало денег - я брал кредит под 16% и шёл в Красное&Белое, после чего мои финансы вновь приходили
-      в упадок в течение пары дней. Идея - самый дорогой товар в мире."
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aspernatur, cum est explicabo in magnam placeat
+      similique velit voluptatibus. Est ipsum pariatur, quasi quidem quo ratione unde voluptate? Architecto dolore
+      dolores eaque id incidunt molestias perspiciatis quo repudiandae sit ut!"
     </p>
-    <h4 class="author">- Стив Джобс</h4>
+    <h4 class="author">- Lorem ipsum.</h4>
   </section>
 </template>
 
