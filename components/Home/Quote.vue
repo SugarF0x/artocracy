@@ -26,11 +26,11 @@ export default defineComponent({
   color: white
 
   @media(min-width: 960px)
-    padding: 48px 96px
+    padding: 96px
   @media(min-width: 1264px)
-    padding: 48px 192px
+    padding: 96px 192px
   @media(min-width: 1904px)
-    padding: 48px 384px
+    padding: 96px 384px
 
 .text
   font-style: italic
