@@ -2,7 +2,7 @@
   <section id="specialty" class="s-bg--primary-dark">
     <div class="bg">
       <v-container class="text-center container">
-        <h2 class="section-title large">Lorem ipsum.</h2>
+        <h2 class="section-title large">Билеты</h2>
         <v-row no-gutters justify="center" class="mx-sm-8 mx-md-16">
           <v-col v-for="(col, colIndex) in cards" :key="`card-col-${colIndex}`" cols="12" sm="6" class="px-xl-16">
             <Card color="primary-dark" :icon="col.icon" class="transparent text--white">
@@ -32,10 +32,14 @@ export default defineComponent({
 })
 
 const cards: [string, string, string][] = [
-  ["home-city-outline", "Lorem ipsum", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero"],
-  ["warehouse", "Lorem ipsum", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero"],
-  ["church", "Lorem ipsum", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero"],
-  ["bridge", "Lorem ipsum", "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, vero"],
+  ["human-child", "Детский", "Без доступа к соне с алкоголем за 3,000"],
+  ["human-greeting", "Взрослый", "Без дегустации вин - 3,000, с - 3,500. Цветное разделение по браслетам"],
+  [
+    "domain",
+    "VIP (макс 20)",
+    "Комфорт шаттла, удобная парковка, отдельный шатёр со своей зоной питания, камерами хранения и фотосъёмкой за 30,000 на человека",
+  ],
+  ["card-account-details-outline", "Lux (макс 6)", "Комфорт VIP + полёт на вертолёте за 200,000 на человека"],
 ]
 
 class CardData {
