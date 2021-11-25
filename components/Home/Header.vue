@@ -5,12 +5,11 @@
         <v-img src="/logo_hq.png" width="228" height="228" />
         <v-col cols="10" lg="8" class="mt-16">
           <div class="title-block">
-            <h5 class="company-subtitle">Lorem ipsum.</h5>
-            <h1 class="company-title">Артократия</h1>
+            <h5 class="company-subtitle">1.07.2021 - 3.07.2021</h5>
+            <h1 class="company-title">ARTocracy</h1>
             <ul class="description-list">
-              <li>Lorem ipsum dolor sit.</li>
-              <li>Lorem ipsum.</li>
-              <li>Lorem ipsum dolor.</li>
+              <li>Аристократ внутри</li>
+              <li>Аристократ снаружи</li>
             </ul>
           </div>
         </v-col>
