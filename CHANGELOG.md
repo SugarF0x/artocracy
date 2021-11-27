@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/SugarF0x/artocracy/compare/v0.3.0...v0.3.1) (2021-11-27)
+
+
+### Bug Fixes
+
+* **price:** bump prices a bit ([f0bbd32](https://github.com/SugarF0x/artocracy/commit/f0bbd328e2f43ac96676c4f62eee102e4b3a6b50))
+
+
+
 # [0.3.0](https://github.com/SugarF0x/artocracy/compare/v0.2.0...v0.3.0) (2021-11-25)
 
 
